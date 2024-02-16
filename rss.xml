@@ -7,75 +7,75 @@
       <link>https://meteolamulata.github.io</link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>jue, 15 feb 2024 12:30:00 UTC</pubDate>
+      <pubDate>vie, 16 feb 2024 00:00:00 UTC</pubDate>
 
-      <lastBuildDate>jue, 15 feb 2024 12:30:00 UTC</lastBuildDate>
+      <lastBuildDate>vie, 16 feb 2024 00:00:00 UTC</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 4.10.2</generator>
       <ttl>5,0 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 15/02/24 12:30:00</title>
+         <title>Weather Conditions at 16/02/24 00:00:00</title>
          <link>https://meteolamulata.github.io</link>
          <description>
-           Outside temperature: 19,1&#176;C; 
-           Barometer: 1017,7 hPa; 
-           Wind: 5 km/h from 243&#176;; 
+           Outside temperature: 13,3&#176;C; 
+           Barometer: 1021,3 hPa; 
+           Wind: 4 km/h from 245&#176;; 
            Rain rate: 0,0 mm/h; 
-           Inside temperature: 19,8&#176;C
+           Inside temperature: 20,0&#176;C
          </description>
-         <pubDate>jue, 15 feb 2024 12:30:00 UTC</pubDate>
+         <pubDate>vie, 16 feb 2024 00:00:00 UTC</pubDate>
 	     <geo:lat>37.1906</geo:lat>
     	 <geo:long>-5.7674</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                15/02/24 12:30:00<br/>
-             Outside Temperature: 19,1&#176;C<br/>
-             Inside Temperature:  19,8&#176;C<br/>
-             Wind Chill:          19,1&#176;C<br/>
-             Heat Index:          18,9&#176;C<br/>
-             Dewpoint:            13,5&#176;C<br/>
-             Humidity:            70%<br/>
-             Barometer:           1017,7 hPa<br/>
-             Wind:                5 km/h from 243&#176;<br/>
+             Time:                16/02/24 00:00:00<br/>
+             Outside Temperature: 13,3&#176;C<br/>
+             Inside Temperature:  20,0&#176;C<br/>
+             Wind Chill:          13,3&#176;C<br/>
+             Heat Index:          13,0&#176;C<br/>
+             Dewpoint:            11,5&#176;C<br/>
+             Humidity:            89%<br/>
+             Barometer:           1021,3 hPa<br/>
+             Wind:                4 km/h from 245&#176;<br/>
              Rain Rate:           0,0 mm/h<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 15/02/24 12:30:00</title>
+         <title>Daily Weather Summary as of 16/02/24 00:00:00</title>
          <link>https://meteolamulata.github.io</link>
          <description>
-	        Min outside temperature: 14,2&#176;C at 02:52:46;
-         	Max outside temperature: 19,3&#176;C at 12:29:03;
+	        Min outside temperature: 13,3&#176;C at 00:00:00;
+         	Max outside temperature: 20,9&#176;C at 13:30:58;
 	        Min inside temperature:  19,6&#176;C at 10:50:00;
-	        Max inside temperature:  21,7&#176;C at 00:00:20;
+	        Max inside temperature:  22,2&#176;C at 13:09:39;
 	        Min barometer:           1011,9 hPa at 10:37:14;
-	        Max barometer:           1019,2 hPa at 09:17:12;
-            Max wind :               28 km/h from 225&#176; at 12:00:22;
+	        Max barometer:           1025,0 hPa at 23:56:48;
+            Max wind :               38 km/h from 225&#176; at 15:42:47;
             Rain today:              0,3 mm
          </description>
-         <pubDate>jue, 15 feb 2024 12:30:00 UTC</pubDate>
+         <pubDate>vie, 16 feb 2024 00:00:00 UTC</pubDate>
 	     <geo:lat>37.1906</geo:lat>
     	 <geo:long>-5.7674</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     15 feb 2024<br/>
-	         Min Outside Temperature: 14,2&#176;C at 02:52:46<br/>
-	         Max Outside Temperature: 19,3&#176;C at 12:29:03<br/>
+	         Min Outside Temperature: 13,3&#176;C at 00:00:00<br/>
+	         Max Outside Temperature: 20,9&#176;C at 13:30:58<br/>
 	         Min Inside Temperature:  19,6&#176;C at 10:50:00<br/>
-	         Max Inside Temperature:  21,7&#176;C at 00:00:20<br/>
+	         Max Inside Temperature:  22,2&#176;C at 13:09:39<br/>
 	         Min Barometer:           1011,9 hPa at 10:37:14<br/>
-	         Max Barometer:           1019,2 hPa at 09:17:12<br/>
-             Max Wind :               28 km/h from 225&#176; at 12:00:22<br/>
+	         Max Barometer:           1025,0 hPa at 23:56:48<br/>
+             Max Wind :               38 km/h from 225&#176; at 15:42:47<br/>
              Rain today:              0,3 mm<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 15/02/24 12:30:00</title>
+         <title>Monthly Weather Summary as of 16/02/24 00:00:00</title>
          <link>https://meteolamulata.github.io/month.html</link>
          <description>
 	        Min outside temperature: 5,0&#176;C at 03/02/24 06:55:41;
@@ -87,7 +87,7 @@
             Max wind :               61 km/h from 248&#176; at 09/02/24 00:00:38;
             Rain total for month:    41,7 mm
          </description>
-         <pubDate>jue, 15 feb 2024 12:30:00 UTC</pubDate>
+         <pubDate>vie, 16 feb 2024 00:00:00 UTC</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   febrero 2024<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 15/02/24 12:30:00</title>
+         <title>Yearly Weather Summary as of 16/02/24 00:00:00</title>
          <link>https://meteolamulata.github.io/year.html</link>
          <description>
 	        Min outside temperature: 2,9&#176;C at 08/01/24 06:28:33;
@@ -116,7 +116,7 @@
             Max wind :               61 km/h from 248&#176; at 09/02/24 00:00:38;
             Rain total for year:     81,6 mm
          </description>
-         <pubDate>jue, 15 feb 2024 12:30:00 UTC</pubDate>
+         <pubDate>vie, 16 feb 2024 00:00:00 UTC</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2024<br/>
